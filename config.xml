@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.phonegap.getting.started"
-	version 	= "1.0.0">
+	id		= "com.swanzai.ikbv2"
+	version 	= "0.0.1">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>iKBv2 -- Exploratory</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		Testing the feasability of utilizing PhoneGap Build for App Development
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://swanzai.net"
+		email="mike@swanzai.net">
+		Mike Swando
 	</author>
 
 	<gap:platforms>
